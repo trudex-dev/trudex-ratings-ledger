@@ -1,0 +1,4 @@
+* text=auto eol=lf
+# Ledger files are hashed: Git must never rewrite their bytes.
+*.json -text
+*.ots binary
