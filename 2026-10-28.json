@@ -1,0 +1,9 @@
+{
+  "version": 1,
+  "day": "2026-10-28",
+  "payload_encoding": "trudex-ratings/submission/v1",
+  "tree": "rfc6962-sha256, leaves sorted by byte value",
+  "leaf_count": 0,
+  "root": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+  "leaves": []
+}
