@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "day": "2026-11-09",
+  "payload_encoding": "trudex-ratings/submission/v1",
+  "tree": "rfc6962-sha256, leaves sorted by byte value",
+  "leaf_count": 3,
+  "root": "cda15c634aac461ada2340a29e9e5701e83c7645f0991ca570b63173f1540353",
+  "leaves": [
+    "0bee022a8cdc24428d172ca5515cecd9324be809ecbb94934e986eda8d8a7343",
+    "e0059cecc07d5fd9cfc505d8d0dde3aef3fe8665d99535096e82a9f9251b132b",
+    "ebfecf6e4ac39b0d3359718cf7eaea1514c6d99988abfd7b29a7642a3de67c3b"
+  ]
+}
